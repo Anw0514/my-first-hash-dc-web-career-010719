@@ -6,7 +6,7 @@ end
 
 
 def shipping_manifest
-  shipping_manifest = hash.new
+  shipping_manifest = {}
  shipping_manifest["whale bone corsets"] = 5
  shipping_manifest["porcelain vases"] = 2
  shipping_manifest["oil paintings"] = 3
